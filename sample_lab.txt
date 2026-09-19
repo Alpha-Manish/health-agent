@@ -1,0 +1,16 @@
+PATIENT: Test Patient (sample)   DATE: 01-Jan-2026
+
+TEST RESULTS
+Hemoglobin: 10.2 g/dL (Ref: 13.0-17.0)
+Fasting Glucose: 148 mg/dL (Ref: 70-100)
+Total Cholesterol: 245 mg/dL (Ref: 0-200)
+Creatinine: 1.0 mg/dL (Ref: 0.7-1.3)
+TSH: 6.8 mIU/L (Ref: 0.4-4.0)
+
+MEDICATIONS
+Metformin 500 mg twice daily after meals
+
+CLINICAL NOTES
+Repeat fasting glucose in 3 months. Follow up with physician.
+
+convert this text in pdf 
